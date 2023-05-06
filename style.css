@@ -1,0 +1,159 @@
+body{
+  /* font-family: 'Alkatra', cursive; */
+  font-family: 'Asap', sans-serif;
+  background-color: #FFC0CB;
+}
+#prtcbdy{
+    background-color: #FFC0CB;
+}
+.nvbar{
+  background-color: skyblue;
+}
+#sec1{
+  background-color:#ff6347;
+  margin: 2rem;
+}
+.sec1heading{
+  text-align: center;
+  color: white;
+}
+.sec1heading1{
+  text-align: center;
+  padding-top:3rem;
+  color:white;
+  font-family: 'Asap', sans-serif;
+  font-weight: bold;
+}
+.sec1div1{
+  font-size: 1.5rem;
+  color:white;
+  font-weight: bold;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.icon1{
+  color: white;
+}
+.sec1para{
+  padding:2rem;
+  text-align: justify;
+}
+.sec1icon{
+  margin:2rem 7rem 2rem 7rem;
+}
+ul{
+  list-style: none;
+}
+#sec2{
+  background-color: #ff6347;
+  text-align: justify;
+  margin: 2rem;
+}
+.sec2hd2{
+  text-align: center;
+  color: white;
+  size: 2rem;
+  padding-top: 2rem;
+  font-weight: bold;
+}
+.sec2img{
+  height: 600px;
+  width: 200px;
+}
+.sec2div{
+  padding: 2rem ;
+  font-size: 1.5rem;
+  color: white;
+}
+.sec2h1{
+  text-align: center;
+  color: white;
+  font-family: 'Alkatra', cursive;
+  padding: 1rem;
+}
+
+.sec3btn{
+  position: absolute;
+  top: auto;
+  right: 30px;
+}
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+}
+.sec3btn2{
+  position: absolute;
+  top: auto;
+  left: 20px;
+  right:20px;
+  bottom: auto;
+}
+#sec4{
+  background-color: lightgreen;
+  padding: 4rem;
+  margin: 2rem;
+}
+.sec4txt{
+  text-align: center;
+  font-size: 2rem;
+}
+.sec4heading{
+  text-align: center;
+  font-weight: bold;
+  color:white;
+}
+.sec4card{
+  margin-left: 15rem;
+ padding: 1rem;
+}
+.sec4btnstp{
+  position: absolute;
+  top: auto;
+  left: 30px;
+}
+#sec5{
+  background-color: orange;
+  text-align: center;
+  margin:2rem;
+}
+.sec5heading{
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem;
+  padding-top: 2rem;
+}
+.sec5card{
+  margin-left: 8rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#sec6{
+  background-color: lightblue;
+  margin:2rem;
+}
+.sec6btn1{
+  position: absolute;
+  margin: 3rem 50rem;
+}
+
+
+.button{
+  position: relative;
+  margin-left: 50pxl;
+}
+.copywritesection{
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  padding-bottom: 3rem;
+  color: rgb(42, 35, 133);
+}
